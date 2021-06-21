@@ -12,12 +12,13 @@ h1{
 .section{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 .box{
     background-image: radial-gradient(circle at 50% -20.71%, #e6f58f 0, #e9eb7f 10%, #ecdf6e 20%, #efd25d 30%, #f1c44d 40%, #f2b53c 50%, #f3a52d 60%, #f59522 70%, #f8851d 80%, #fa741e 90%, #fc6324 100%);
     background-color: red;
     border: 1px solid black;
-    margin-top: 2px;
+    margin-top: 4px;
     width:327px;
     height :63px;
     font-size: 37px;
@@ -32,4 +33,22 @@ h1{
     display: flex;
     justify-content: center;
     margin-top: 2em;
+}
+.talk{
+    display: flex;
+    margin-top: 3em;
+    justify-content: center;
+}
+#Luci{
+    width: 350px;
+    height: 40px;
+    border-radius: 15px 15px;
+    margin-top: 60px;
+}
+button{
+    height: 30px;
+    margin: 65px 0 0 20px;
+    background-color: rgb(1, 216, 1);
+    border-radius: 5px 5px 5px 5px;
+    border:none;
 }
