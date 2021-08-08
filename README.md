@@ -1,7 +1,7 @@
 <h1>Desencanto<h1>
   
   <h4>Descrição</h4>
-  Site feito usando HTML, CSS,  Figma, Photoshop, API do Youtube e JavaScript para fazer um  chat com os principais personagem da série 
+  <p>Site feito usando HTML, CSS,  Figma, Photoshop, API do Youtube e JavaScript para fazer um  chat com os principais personagem da série</
   
   </br>
   
