@@ -29,7 +29,7 @@ function talkTibine() {
 
 
 function talkElfo() {
-    const speak = ["Viu a Tibine por ai?"]
+    const speak = ["Viu a Tibine por ai?", "Aí que dor no meu bumbumzinho"]
 
     const numero = Math.floor(Math.random() * speak.length);
 
